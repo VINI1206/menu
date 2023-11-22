@@ -20,12 +20,6 @@ body{
 #menu-h li{
     display: inline;
 }
-#menu-h li a{
-    padding: 10p
-    text-decoration: none;
-    display: inline;
-}
-    
 .container{
     width: 350px;
     height: 400px;
