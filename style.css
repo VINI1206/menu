@@ -16,9 +16,17 @@ body{
 #menu-h {
     list-style: none;
     padding: 0;
+    background-color: rgb(37, 37, 39);
 }
 #menu-h li{
     display: inline;
+    padding: 20px;
+}
+#menu-h li a{
+    color: #FFF;
+    text-decoration: none;
+    display: inline;
+    
 }
 .container{
     width: 350px;
