@@ -13,6 +13,12 @@ body{
     position: relative;
     background: #DE522F;
 }
+#menu-h {
+    list-style: none;
+    padding: 0;
+}
+#menu-h {
+    display: inline;
 .container{
     width: 350px;
     height: 400px;
